@@ -1,7 +1,7 @@
 import React from 'react';
 import ICASAImg from './../../../assets/media/ICASA.jpg'
 
-const ICASA = () => {
+const Icasa = () => {
     return (
         <div className="mx-auto max-w-7xl ">
             <div>
@@ -127,4 +127,4 @@ const ICASA = () => {
     );
 };
 
-export default ICASA;
+export default Icasa;
